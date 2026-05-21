@@ -36,10 +36,6 @@ This repository centralizes academic electronics materials, including PDFs, repo
 | 13 | Capacitors | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-capacitors-tuqay-qarayev-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586188) | Tuqay Qarayev | Telman Askeraliyev |
 
 ---
-## Notes
-
-📖 View Notes:
-https://go.fliplink.me/view/F178F209-5E1D-4B99-AEED-4E03C1C7F9A9
 
 ## Technologies & Topics Covered
 
