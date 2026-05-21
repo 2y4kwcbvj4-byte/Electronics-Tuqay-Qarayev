@@ -21,19 +21,19 @@ This repository centralizes academic electronics materials, including PDFs, repo
 
 | # | Topic | Platform | Link | Author | Verified |
 |---|------|----------|------|--------|----------|
-| 01 | Voltage Regulators | Academia.edu | [Open](https://www.academia.edu/167366528/Technical_Laboratory_Report_Voltage_Regulators_Ramil_Musazada_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) | Ramil Musazada | Telman Askeraliyev |
-| 02 | Operating Amplifier | Academia.edu | [Open](https://www.academia.edu/167366514/Operating_amplifier) | Ramil Musazada | Telman Askeraliyev |
-| 03 | Transistors | Academia.edu | [Open](https://www.academia.edu/167366486/Technical_Laboratory_Report_Transistors_Ramil_Musazada_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) | Ramil Musazada | Telman Askeraliyev |
-| 04 | JFET and MOSFET | Academia.edu | [Open](https://www.academia.edu/167366468/Technical_Laboratory_Report_JFET_and_MOSFET_Ramil_Musazada_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) | Ramil Musazada | Telman Askeraliyev |
-| 05 | Diodes | Academia.edu | [Open](https://www.academia.edu/167366410/Technical_Laboratory_Report_Diods_Ramil_Musazada_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) | Ramil Musazada | Telman Askeraliyev |
-| 06 | Capacitors | Academia.edu | [Open](https://www.academia.edu/167366384/Technical_Laboratory_Report_Capacitors_Ramil_Musazada_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) | Ramil Musazada | Telman Askeraliyev |
-| 07 | Voltage Regulator | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-voltage-regulator-ramil-musazada-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586271) | Ramil Musazada | Telman Askeraliyev |
-| 08 | Transistors | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-transistors-ramil-musazada-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586262) | Ramil Musazada | Telman Askeraliyev |
-| 09 | Operating Amplifier | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-operating-amplifier-ramil-musazada-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586245) | Ramil Musazada | Telman Askeraliyev |
-| 10 | JFET & MOSFET | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-jfet-mosfet-ramil-musazada-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586232) | Ramil Musazada | Telman Askeraliyev |
-| 11 | FETs | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-fets-ramil-musazada-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586223) | Ramil Musazada | Telman Askeraliyev |
-| 12 | Diodes | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-diods-ramil-musazada-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586216) | Ramil Musazada | Telman Askeraliyev |
-| 13 | Capacitors | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-capacitors-ramil-musazada-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586188) | Ramil Musazada | Telman Askeraliyev |
+| 01 | Voltage Regulators | Academia.edu | [Open](https://www.academia.edu/167366528/Technical_Laboratory_Report_Voltage_Regulators_Tuqay_Qarayev_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) | Tuqay Qarayev | Telman Askeraliyev |
+| 02 | Operating Amplifier | Academia.edu | [Open](https://www.academia.edu/167366514/Operating_amplifier) | Tuqay Qarayev | Telman Askeraliyev |
+| 03 | Transistors | Academia.edu | [Open](https://www.academia.edu/167366486/Technical_Laboratory_Report_Transistors_Tuqay_Qarayev_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) |Tuqay Qarayev | Telman Askeraliyev |
+| 04 | JFET and MOSFET | Academia.edu | [Open](https://www.academia.edu/167366468/Technical_Laboratory_Report_JFET_and_MOSFET_Tuqay_Qarayev_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) | Tuqay Qarayev | Telman Askeraliyev |
+| 05 | Diodes | Academia.edu | [Open](https://www.academia.edu/167366410/Technical_Laboratory_Report_Diods_Tuqay_Qarayev_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) | Tuqay Qarayev | Telman Askeraliyev |
+| 06 | Capacitors | Academia.edu | [Open](https://www.academia.edu/167366384/Technical_Laboratory_Report_Capacitors_Tuqay_Qarayev_Verified_by_Physics_Teacher_Azerbaijan_Telman_Askeraliyev_Fizika_Muellimi_Azerbaijan_Baku_) | Tuqay Qarayev | Telman Askeraliyev |
+| 07 | Voltage Regulator | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-voltage-regulator-tuqay-qarayev-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586271) | Tuqay Qarayev | Telman Askeraliyev |
+| 08 | Transistors | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-transistors-tuqay-qarayev-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586262) | Tuqay Qarayev | Telman Askeraliyev |
+| 09 | Operating Amplifier | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-operating-amplifier-tuqay-qarayev-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586245) | Tuqay Qarayev | Telman Askeraliyev |
+| 10 | JFET & MOSFET | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-jfet-mosfet-tuqay-qarayev-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586232) | Ramil Musazada | Telman Askeraliyev |
+| 11 | FETs | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-fets-tuqay-qarayev-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586223) | Tuqay Qarayev | Telman Askeraliyev |
+| 12 | Diodes | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-diods-tuqay-qarayev-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586216) | Tuqay Qarayev | Telman Askeraliyev |
+| 13 | Capacitors | SlideShare | [Open](https://www.slideshare.net/slideshow/technical-laboratory-report-capacitors-tuqay-qarayev-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287586188) | Tuqay Qarayev | Telman Askeraliyev |
 
 ---
 ## Notes
@@ -77,7 +77,7 @@ The video is part of the electronics laboratory portfolio and complements the wr
 
 ## Author
 
-**Ramil Musazada**
+**Tuqay Qarayev**
 
 Academic electronics portfolio containing technical laboratory reports, presentations, and engineering documentation.
 
